@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5af4e416_002D0140_002D4028_002D9651_002D98fb3df0a538/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Equality_with_same_currency" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::EDCC5F87-9098-F73C-AE2F-23DAAC164F3D::net6.0::HyperiaForexTests.Equality_with_same_currency&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8fb6a9c9_002Dfedf_002D4411_002D8c14_002Da3e9a5c0da07/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Equality_with_same_currency #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::EDCC5F87-9098-F73C-AE2F-23DAAC164F3D::net6.0::HyperiaForexTests.Equality_with_same_currency&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c65bc16c_002Dbe2d_002D4d09_002Db6c8_002Db362df4a832f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Equality_with_same_currency #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::EDCC5F87-9098-F73C-AE2F-23DAAC164F3D::net6.0::HyperiaForexTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
